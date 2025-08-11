@@ -1,0 +1,192 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - navigation "Top":
+    - link "B SecureBank":
+      - /url: /
+    - button "Products & Services"
+    - link "Home":
+      - /url: /
+    - link "Rates & Fees":
+      - /url: /rates
+    - link "Help Center":
+      - /url: /help
+    - link "Branch Locator":
+      - /url: /branches
+    - link "About Us":
+      - /url: /about
+    - link "Contact":
+      - /url: /contact
+    - link "Sign In":
+      - /url: /login
+    - link "Open Account":
+      - /url: /register
+      - text: Open Account
+      - button "Switch to dark mode"
+- main:
+  - heading "Your Trusted Financial Partner" [level=1]
+  - paragraph: Experience secure, convenient banking with competitive rates and personalized service. Join over 1 million customers who trust SecureBank with their financial future.
+  - button "Open Account":
+    - link "Open Account":
+      - /url: /register
+  - button "Sign In":
+    - link "Sign In":
+      - /url: /login
+  - heading "Why Choose SecureBank?" [level=2]
+  - paragraph: We provide comprehensive financial services with the security and convenience you deserve.
+  - heading "Secure Banking" [level=3]
+  - paragraph: Bank-level security with 256-bit encryption and fraud protection.
+  - heading "Digital Payments" [level=3]
+  - paragraph: Send money instantly with our mobile app and online banking.
+  - heading "Savings & Checking" [level=3]
+  - paragraph: Competitive rates on savings accounts and free checking.
+  - heading "Investment Services" [level=3]
+  - paragraph: Grow your wealth with our investment and retirement planning.
+  - heading "Our Banking Products" [level=2]
+  - paragraph: Discover our range of financial products designed to meet your needs.
+  - heading "Checking Accounts" [level=3]
+  - paragraph: Free checking with no minimum balance and unlimited transactions.
+  - list:
+    - listitem: No monthly fees
+    - listitem: Free ATM access
+    - listitem: Mobile banking
+  - button "Learn More":
+    - link "Learn More":
+      - /url: /products/checking
+  - heading "Savings Accounts" [level=3]
+  - paragraph: High-yield savings accounts to help your money grow.
+  - list:
+    - listitem: 2.5% APY
+    - listitem: No minimum balance
+    - listitem: FDIC insured
+  - button "Learn More":
+    - link "Learn More":
+      - /url: /products/savings
+  - heading "Credit Cards" [level=3]
+  - paragraph: Reward credit cards with cashback and travel benefits.
+  - list:
+    - listitem: No annual fee
+    - listitem: 2% cashback
+    - listitem: Travel rewards
+  - button "Learn More":
+    - link "Learn More":
+      - /url: /products/cards
+  - heading "Home Loans" [level=3]
+  - paragraph: Competitive mortgage rates for your dream home.
+  - list:
+    - listitem: Low rates
+    - listitem: Fast approval
+    - listitem: Expert guidance
+  - button "Learn More":
+    - link "Learn More":
+      - /url: /products/loans
+  - heading "Ready to get started?" [level=2]
+  - paragraph: Open your account today and experience the difference of banking with SecureBank.
+  - button "Open Account Now":
+    - link "Open Account Now":
+      - /url: /register
+  - button "Contact Us":
+    - link "Contact Us":
+      - /url: /contact
+  - heading "Call Us" [level=3]
+  - paragraph: 1-800-SECURE-1
+  - paragraph: 24/7 Customer Support
+  - heading "Visit Us" [level=3]
+  - paragraph: 500+ Branches Nationwide
+  - paragraph:
+    - link "Find a Branch":
+      - /url: /branches
+  - heading "Banking Hours" [level=3]
+  - paragraph: "Mon-Fri: 9AM-6PM"
+  - paragraph: "Online Banking: 24/7"
+  - button "💬"
+- contentinfo:
+  - text: B SecureBank
+  - paragraph: Your trusted financial partner for over 50 years. Secure, reliable, and always here for you.
+  - text: 1-800-SECURE-1 support@securebank.com 123 Financial District New York, NY 10004
+  - heading "Banking Services" [level=3]
+  - list:
+    - listitem:
+      - link "Checking Accounts":
+        - /url: /products/checking
+    - listitem:
+      - link "Savings Accounts":
+        - /url: /products/savings
+    - listitem:
+      - link "Credit Cards":
+        - /url: /products/cards
+    - listitem:
+      - link "Loans & Mortgages":
+        - /url: /products/loans
+    - listitem:
+      - link "Investment Services":
+        - /url: /products/investments
+  - heading "Support" [level=3]
+  - list:
+    - listitem:
+      - link "Help Center":
+        - /url: /help
+    - listitem:
+      - link "Contact Us":
+        - /url: /contact
+    - listitem:
+      - link "Branch Locator":
+        - /url: /branches
+    - listitem:
+      - link "ATM Locator":
+        - /url: /atms
+    - listitem:
+      - link "Customer Service":
+        - /url: /support
+  - heading "Company" [level=3]
+  - list:
+    - listitem:
+      - link "About Us":
+        - /url: /about
+    - listitem:
+      - link "Careers":
+        - /url: /careers
+    - listitem:
+      - link "Press Releases":
+        - /url: /press
+    - listitem:
+      - link "Investor Relations":
+        - /url: /investors
+    - listitem:
+      - link "Community":
+        - /url: /community
+  - heading "Legal" [level=3]
+  - list:
+    - listitem:
+      - link "Privacy Policy":
+        - /url: /privacy
+    - listitem:
+      - link "Terms of Service":
+        - /url: /terms
+    - listitem:
+      - link "Security Center":
+        - /url: /security
+    - listitem:
+      - link "Accessibility":
+        - /url: /accessibility
+    - listitem:
+      - link "Site Map":
+        - /url: /sitemap
+  - text: FDIC Insured 256-bit SSL Equal Housing Lender
+  - link "Facebook":
+    - /url: "#"
+    - text: F
+  - link "Twitter":
+    - /url: "#"
+    - text: T
+  - link "LinkedIn":
+    - /url: "#"
+    - text: L
+  - link "Instagram":
+    - /url: "#"
+    - text: I
+  - paragraph: © 2024 SecureBank. All rights reserved.
+  - paragraph: "Member FDIC. Equal Housing Lender. NMLS ID: 123456"
+- alert
+```
